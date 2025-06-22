@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBMH53KXVQbY_A6O6ZeE1a8vofYpjfhqoQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>719204335654</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.foodDeliveryH2d</string>
+	<key>PROJECT_ID</key>
+	<string>fooddelivery-fd9c7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fooddelivery-fd9c7.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:719204335654:ios:24a8b95eb4a0a13d73e6e7</string>
+</dict>
+</plist>
